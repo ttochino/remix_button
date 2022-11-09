@@ -1,0 +1,1 @@
+import{b as t,d as e}from"/build/_shared/chunk-NNE7662T.js";var n=t(e());function o(){return(0,n.jsx)("div",{style:{display:"flex",width:"100%",height:"100vh",justifyContent:"center",alignItems:"center"},children:(0,n.jsx)("button",{children:"button"})})}export{o as default};
